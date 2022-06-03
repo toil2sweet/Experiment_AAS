@@ -1,0 +1,3 @@
+Results of runing BLS with 10 randomly shuffled task orders
+ACC: mean 0.1993, std 0.0015
+Time: mean 8.3952, std 0.1115

@@ -1,0 +1,5 @@
+Results of runing MRNet with 10 randomly shuffled task orders
+ACC: mean 0.9307, std 0.0074
+Backward: mean -0.0458, std 0.0069
+Forward:  mean -0.0261, std 0.0035
+Time: mean 11.3800, std 0.2896
